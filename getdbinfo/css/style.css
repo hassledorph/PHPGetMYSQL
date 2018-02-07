@@ -1,0 +1,19 @@
+body
+{
+	background-color: #696969;
+}
+
+
+
+h2
+{
+	margin-bottom:0px;
+}
+
+.center
+{
+	margin:auto;
+	width:40%;
+	/*border:3px solid gray;*/
+	/*padding:10px;*/	
+}
