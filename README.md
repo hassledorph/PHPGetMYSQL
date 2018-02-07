@@ -6,7 +6,8 @@ Small script to get and display info from a database using MYSQL and PHP.
 
 Coding time 2h.
 
-Improvements left:
+Remaining improvements:
+
 Still have some error handling to take care of.
 
 Comment the code
